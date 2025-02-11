@@ -64,5 +64,5 @@ It uses custom headers to mimic browser requests and fetch data.
 
 
 ## Author
-[Your Name]
+Ajaydeep Singh Rajpoot
 
